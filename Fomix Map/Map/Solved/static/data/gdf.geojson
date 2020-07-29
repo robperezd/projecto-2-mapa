@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Iniciales": "BCN", "Lat": 30.2822994, "Lng": -120.0291478, "Monto": "$ 15,978,420" }, "geometry": { "type": "Point", "coordinates": [ -120.0291478, 30.2822994 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "BCS", "Lat": 25.3674357, "Lng": -116.8183478, "Monto": "$ 45,904,965" }, "geometry": { "type": "Point", "coordinates": [ -116.818347799999984, 25.3674357 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "CAM", "Lat": 19.318247, "Lng": -93.0406091, "Monto": "$ 7,060,000" }, "geometry": { "type": "Point", "coordinates": [ -93.040609099999983, 19.318247 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "CDMX", "Lat": 19.390519, "Lng": -99.4238271, "Monto": "$ 11,000,000" }, "geometry": { "type": "Point", "coordinates": [ -99.4238271, 19.390519 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "CHI", "Lat": 28.6708592, "Lng": -106.2047084, "Monto": "$ 3,895,000" }, "geometry": { "type": "Point", "coordinates": [ -106.2047084, 28.6708592 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "CHS", "Lat": 16.2468647, "Lng": -94.5004081, "Monto": "$ 12,000,000" }, "geometry": { "type": "Point", "coordinates": [ -94.500408099999987, 16.2468647 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "COA", "Lat": 27.1394513, "Lng": -106.4009018, "Monto": "$ 24,200,000" }, "geometry": { "type": "Point", "coordinates": [ -106.400901799999986, 27.1394513 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "DGO", "Lat": 37.2725268, "Lng": -107.9374006, "Monto": "$ 16,800,000" }, "geometry": { "type": "Point", "coordinates": [ -107.9374006, 37.2725268 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "GTO", "Lat": 21.0251042, "Lng": -101.2929, "Monto": "$ 2,706,554" }, "geometry": { "type": "Point", "coordinates": [ -101.2929, 21.0251042 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "HGO", "Lat": 20.4945384, "Lng": -100.0438771, "Monto": "$ 3,984,000" }, "geometry": { "type": "Point", "coordinates": [ -100.043877099999989, 20.4945384 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "JAL", "Lat": 20.82343, "Lng": -105.8485043, "Monto": "$ 62,284,515" }, "geometry": { "type": "Point", "coordinates": [ -105.8485043, 20.82343 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "MEX", "Lat": 19.3229759, "Lng": -100.7266311, "Monto": "$ 159,456,580" }, "geometry": { "type": "Point", "coordinates": [ -100.7266311, 19.3229759 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "MIC", "Lat": 19.1410927, "Lng": -104.1461872, "Monto": "$ 16,000,000" }, "geometry": { "type": "Point", "coordinates": [ -104.1461872, 19.1410927 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "MOR", "Lat": 18.6380463, "Lng": -98.967177, "Monto": "$ 3,195,000" }, "geometry": { "type": "Point", "coordinates": [ -98.967177, 18.6380463 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "PUE", "Lat": 19.0399944, "Lng": -98.3330565, "Monto": "$ 2,000,000" }, "geometry": { "type": "Point", "coordinates": [ -98.3330565, 19.0399944 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "QRO", "Lat": 20.6121228, "Lng": -100.4802589, "Monto": "$ 187,999,992" }, "geometry": { "type": "Point", "coordinates": [ -100.48025890000001, 20.6121228 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "QUI", "Lat": 19.7357501, "Lng": -90.2490647, "Monto": "$ 11,707,759" }, "geometry": { "type": "Point", "coordinates": [ -90.2490647, 19.7357501 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "SIN", "Lat": 24.7379901, "Lng": -109.6652912, "Monto": "$ 7,203,310" }, "geometry": { "type": "Point", "coordinates": [ -109.6652912, 24.7379901 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "SNL", "Lat": 22.8101059, "Lng": -102.5564382, "Monto": "$ 17,705,500" }, "geometry": { "type": "Point", "coordinates": [ -102.5564382, 22.8101059 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "SON", "Lat": 29.3199116, "Lng": -116.2371951, "Monto": "$ 12,811,468" }, "geometry": { "type": "Point", "coordinates": [ -116.2371951, 29.3199116 ] } },
+{ "type": "Feature", "properties": { "Iniciales": "YUC", "Lat": 21.0677185, "Lng": -92.175243, "Monto": "$ 9,995,860" }, "geometry": { "type": "Point", "coordinates": [ -92.175243, 21.0677185 ] } }
+]
+}
